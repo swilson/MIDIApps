@@ -227,7 +227,7 @@ NSString *SMProgramChangeBaseIndexPreferenceKey = @"SMProgramChangeBaseIndex";
         const unsigned char *bytes = otherData.bytes;
         NSUInteger i;
         NSUInteger length = otherData.length;
-        for (i = 0; i < 31 && i < length; i++) {
+        for (i = 0; i < 255 && i < length; i++) {
             [result appendFormat:@" %02X", bytes[i]];
         }
         if (i < length) {
