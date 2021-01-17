@@ -8,13 +8,15 @@ This is the source code for the two applications. You do *not* need any of this 
 
 The source code is Open Source under the BSD license. See LICENSE for the legal details.
 
+The project is currently intended to be used with an up-to-date Xcode version, like Xcode 11.1 (with the MacOS 10.15 SDK). However, it has been reported to work with earlier releases, as old as Xcode 9.2.  (If you need to run it on an earlier Xcode, try checking out older revisions.)
 
 ## How to build ##
 
 1. `git submodule update --init --recursive` 
-2. Open MIDIApps.xcworkspace with Xcode.
-3. In the "Scheme" popup menu in the toolbar, select either MIDI Monitor or SysEx Librarian.
-4. Build and run!
+2. Open `MIDIApps.xcworkspace` with Xcode.
+3. Open `Configurations/Snoize-Signing.xcconfig` and change `DEVELOPMENT_TEAM` to the Team ID of your Apple Developer account. See the file for more details.
+4. In the "Scheme" popup menu in the toolbar, select either MIDI Monitor or SysEx Librarian.
+5. Build and run!
 
 
 ## What's inside ##
