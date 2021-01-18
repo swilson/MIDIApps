@@ -528,7 +528,7 @@
 				LastUpgradeCheck = 1000;
 				TargetAttributes = {
 					167B880506ED4D650053D305 = {
-						DevelopmentTeam = YDJAW5GX9U;
+						DevelopmentTeam = 25GUDH95C7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -846,6 +846,7 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.4.1;
+				DEVELOPMENT_TEAM = 25GUDH95C7;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = PrecompHeader.h;
 				INFOPLIST_FILE = "Info-MIDIMonitor.plist";
@@ -881,6 +882,7 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.4.1;
+				DEVELOPMENT_TEAM = 25GUDH95C7;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = PrecompHeader.h;
 				INFOPLIST_FILE = "Info-MIDIMonitor.plist";
