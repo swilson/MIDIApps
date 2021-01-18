@@ -91,25 +91,25 @@
                                 <size key="intercellSpacing" width="5" height="2"/>
                                 <buttonCell key="prototype" type="check" title="Clock" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="-1" inset="2" id="509">
                                     <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                    <font key="font" metaFont="message" size="11"/>
+                                    <font key="font" metaFont="toolTip"/>
                                 </buttonCell>
                                 <cells>
                                     <column>
                                         <buttonCell type="check" title="Clock" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="2048" inset="2" id="393">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Start/Stop/Continue" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="28672" inset="2" id="397">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Active Sense" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="32768" inset="2" id="392">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Reset" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="65536" inset="2" id="408">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                     </column>
                                 </cells>
@@ -153,25 +153,25 @@
                                 <size key="intercellSpacing" width="5" height="2"/>
                                 <buttonCell key="prototype" type="check" title="Time Code" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="-1" inset="2" id="507">
                                     <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                    <font key="font" metaFont="message" size="11"/>
+                                    <font key="font" metaFont="toolTip"/>
                                 </buttonCell>
                                 <cells>
                                     <column>
                                         <buttonCell type="check" title="Time Code" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="128" inset="2" id="399">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Song Position Pointer" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="256" inset="2" id="403">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Song Select" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="512" inset="2" id="410">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Tune Request" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="1024" inset="2" id="402">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                     </column>
                                 </cells>
@@ -232,33 +232,33 @@
                                 <size key="intercellSpacing" width="5" height="2"/>
                                 <buttonCell key="prototype" type="check" title="Note On/Off" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="-1" inset="2" id="506">
                                     <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                    <font key="font" metaFont="message" size="11"/>
+                                    <font key="font" metaFont="toolTip"/>
                                 </buttonCell>
                                 <cells>
                                     <column>
                                         <buttonCell type="check" title="Note On/Off" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="3" inset="2" id="394">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Aftertouch (Poly)" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="4" inset="2" id="389">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Control" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="8" inset="2" id="391">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Program" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="16" inset="2" id="386">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Channel Pressure" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="32" inset="2" id="388">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                         <buttonCell type="check" title="Pitch Wheel" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="small" tag="64" inset="2" id="409">
                                             <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
-                                            <font key="font" metaFont="message" size="11"/>
+                                            <font key="font" metaFont="toolTip"/>
                                         </buttonCell>
                                     </column>
                                 </cells>
@@ -292,24 +292,24 @@
                                             <tableColumns>
                                                 <tableColumn identifier="enabled" width="18" minWidth="16" maxWidth="18" id="372">
                                                     <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left">
-                                                        <font key="font" metaFont="message" size="11"/>
+                                                        <font key="font" metaFont="toolTip"/>
                                                         <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                         <color key="backgroundColor" white="0.33333298560000002" alpha="1" colorSpace="calibratedWhite"/>
                                                     </tableHeaderCell>
                                                     <textFieldCell key="dataCell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" alignment="left" title="XS" id="515">
-                                                        <font key="font" metaFont="message" size="11"/>
+                                                        <font key="font" metaFont="toolTip"/>
                                                         <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                     </textFieldCell>
                                                 </tableColumn>
                                                 <tableColumn identifier="name" editable="NO" width="435" minWidth="16" maxWidth="1000" id="373">
                                                     <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Input Name">
-                                                        <font key="font" metaFont="message" size="11"/>
+                                                        <font key="font" metaFont="toolTip"/>
                                                         <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                         <color key="backgroundColor" white="0.33333298560000002" alpha="1" colorSpace="calibratedWhite"/>
                                                     </tableHeaderCell>
                                                     <textFieldCell key="dataCell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" alignment="left" title="Extra Small" id="516">
-                                                        <font key="font" metaFont="message" size="11"/>
+                                                        <font key="font" metaFont="toolTip"/>
                                                         <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                     </textFieldCell>
@@ -371,66 +371,66 @@
                                                 <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                 <color key="gridColor" name="gridColor" catalog="System" colorSpace="catalog"/>
                                                 <tableColumns>
-                                                    <tableColumn identifier="timeStamp" editable="NO" width="78.1240234375" minWidth="40" maxWidth="1000" id="33">
+                                                    <tableColumn identifier="timeStamp" editable="NO" width="40" minWidth="40" maxWidth="1000" id="33">
                                                         <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Time">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" white="0.33333298560000002" alpha="1" colorSpace="calibratedWhite"/>
                                                         </tableHeaderCell>
                                                         <textFieldCell key="dataCell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" alignment="left" title="8" id="510">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                         </textFieldCell>
                                                         <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                     </tableColumn>
-                                                    <tableColumn identifier="source" editable="NO" width="95.77099609375" minWidth="10" maxWidth="1000" id="236">
+                                                    <tableColumn identifier="source" editable="NO" width="45" minWidth="10" maxWidth="1000" id="236">
                                                         <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Source">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="headerColor" catalog="System" colorSpace="catalog"/>
                                                         </tableHeaderCell>
                                                         <textFieldCell key="dataCell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" alignment="left" title="Mountain View" drawsBackground="YES" id="514">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                         </textFieldCell>
                                                         <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                     </tableColumn>
-                                                    <tableColumn identifier="type" editable="NO" width="97" minWidth="55" maxWidth="200" id="53">
+                                                    <tableColumn identifier="type" editable="NO" width="55" minWidth="55" maxWidth="200" id="53">
                                                         <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Message">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" white="0.33333298560000002" alpha="1" colorSpace="calibratedWhite"/>
                                                         </tableHeaderCell>
                                                         <textFieldCell key="dataCell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" alignment="left" title="Mountain View" id="513">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                         </textFieldCell>
                                                         <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                     </tableColumn>
-                                                    <tableColumn identifier="channel" editable="NO" width="35" minWidth="10" maxWidth="1000" id="36">
+                                                    <tableColumn identifier="channel" editable="NO" width="36" minWidth="10" maxWidth="1000" id="36">
                                                         <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Chan">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="headerColor" catalog="System" colorSpace="catalog"/>
                                                         </tableHeaderCell>
                                                         <textFieldCell key="dataCell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" alignment="left" title="Mountain View" drawsBackground="YES" id="511">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                         </textFieldCell>
                                                         <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                     </tableColumn>
-                                                    <tableColumn identifier="data" editable="NO" width="28.50200080871582" minWidth="28.50200080871582" maxWidth="2000" id="47">
+                                                    <tableColumn identifier="data" editable="NO" width="33" minWidth="28.50200080871582" maxWidth="2000" id="47">
                                                         <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Data">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="toolTip"/>
                                                             <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="headerColor" catalog="System" colorSpace="catalog"/>
                                                         </tableHeaderCell>
                                                         <textFieldCell key="dataCell" lineBreakMode="truncatingTail" truncatesLastVisibleLine="YES" selectable="YES" editable="YES" alignment="left" title="Mountain View" drawsBackground="YES" id="512">
-                                                            <font key="font" metaFont="message" size="11"/>
+                                                            <font key="font" metaFont="fixedUser" size="11"/>
                                                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                                         </textFieldCell>
@@ -510,7 +510,7 @@
                                                 <rect key="frame" x="17" y="-1" width="66" height="17"/>
                                                 <autoresizingMask key="autoresizingMask"/>
                                                 <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="left" title="Receiving..." id="497">
-                                                    <font key="font" metaFont="message" size="11"/>
+                                                    <font key="font" metaFont="toolTip"/>
                                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                                 </textFieldCell>
